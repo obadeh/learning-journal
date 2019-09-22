@@ -9,6 +9,6 @@ I keep remind myself in grouth mindset by:
 3. View challenges as opportunities.
 
 
-my name is **obada** you can 'visit' my _page_ on ( https://obadeh.github.io/learning-journal/ ) 
+my name is **obada** you can 'visit' my _page_ on (https://obadeh.github.io/learning-journal/) 
 
 thank you.
