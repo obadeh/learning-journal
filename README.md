@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Growth mindset
 
-You can use the [editor on GitHub](https://github.com/obadeh/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ Growth Mindset: “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
