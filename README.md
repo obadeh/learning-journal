@@ -2,7 +2,10 @@
 
  Growth Mindset: “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Place effort before talent.
+2. Reward actions, not traits.
+3. View challenges as opportunities.
+
 
 ### Markdown
 
@@ -18,8 +21,9 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Place effort before talent.
+2. Reward actions, not traits.
+3. View challenges as opportunities.
 
 **Bold** and _Italic_ and `Code` text
 
