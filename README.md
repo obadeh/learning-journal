@@ -1,5 +1,7 @@
 ## Growth mindset
 
+# Introduction
+
  Growth Mindset: “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point.
 
 - I keep remind myself in grouth mindset by:
@@ -12,5 +14,9 @@
 my name is **obada** i am 24 years old and i am trying to learn _programing_ .
 
 i have changed something..
+
+# contents
+
+1. [markdown](https://obadeh.github.io/learning-journal/markdown) 
 
 thank you .
