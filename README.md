@@ -17,8 +17,8 @@ i have changed something..
 
 ## contents:
 
-1. [markdown](https://obadeh.github.io/learning-journal/markdown) 
-2. [HTML](https://obadeh.github.io/learning-journal/file2)
-
+1. [**MARKDOWN**](https://obadeh.github.io/learning-journal/markdown) 
+2. [**HTML**](https://obadeh.github.io/learning-journal/file2)
+3. [**CSS**](https://obadeh.github.io/learning-journal/css)
 
 thank you .
