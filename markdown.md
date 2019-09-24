@@ -8,7 +8,7 @@ Thus, “Markdown” is two things: (1) a plain text formatting syntax; and (2) 
 The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters, the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
 
 
-[Main-page](https://obadeh.github.io/learning-journal/)
+[**Main-page**](https://obadeh.github.io/learning-journal/)
 
 
-![markdown](https://i2.wp.com/blog.knoldus.com/wp-content/uploads/2017/01/markdown.png?resize=1024%2C630&ssl=1)
+![**markdown**](https://i2.wp.com/blog.knoldus.com/wp-content/uploads/2017/01/markdown.png?resize=1024%2C630&ssl=1)

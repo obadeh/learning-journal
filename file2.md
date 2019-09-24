@@ -19,4 +19,4 @@
 *We believe using a simple text editor is a good way to learn HTML.* :+1:
 
 
-[Main-page](https://obadeh.github.io/learning-journal/)
+[**Main-page**](https://obadeh.github.io/learning-journal/)
